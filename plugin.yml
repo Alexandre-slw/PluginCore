@@ -1,0 +1,9 @@
+name: PluginCore
+author: Alexandre
+version: 1.0.0
+main: com.alexandre.core.Main
+
+commands:
+  lobby:
+    aliases:
+      - hub
